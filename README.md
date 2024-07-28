@@ -7,10 +7,15 @@ The Bank Management System project, written in Python, offers a simple yet compr
 #### Key features of the project include:
 
   Account Creation: Users can create new accounts by providing necessary details like account holder's name, account number, account type (Saving or Current), and an initial deposit of at least 500.
+  
   Transaction Management: Users can easily deposit and withdraw money from their accounts by entering their account number and the amount.
+  
   Balance Inquiry: Users can check their account balance, which displays the account number and the current amount.
+  
   Account Records: The system allows users to view a list of all account holders and their details.
+  
   Account Modification: Users can update their account information and change the account type as needed.
+  
   The project employs an external database connection file to store user data permanently, ensuring data persistence across sessions. Despite its simplicity, the system covers all fundamental aspects of bank management, focusing primarily on CRUD (Create, Read, Update, Delete) operations.
 
 #### Educational Value
